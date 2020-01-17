@@ -4,7 +4,7 @@ Tells you whether or not a sentence/phrase/clause is a suggestion. Doesn't heed 
 
 ## Before you run the model
 
-First extract the glove zip file that is inside the glove folder before running the model.
+This repo requires the Glove dataset. You can download on from: https://nlp.stanford.edu/projects/glove/. I used the glove.6B.zip. Extract it into the root directory and it should be in /glove folder for script to find it.
 
 ### Installation
 
