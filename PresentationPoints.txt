@@ -1,0 +1,34 @@
+ 
+
+ITEMS THAT WE NEED MORE OF BOTH OF THESE ON BOTH SIDES (0, 1)
+Please …
+… please 
+I think .. 
+why dont … you show us how (SUGGESTION)
+why dont … then? (NOT A SUGGESTION)
+please stop hating on black people. (Is this a suggestion?)
+
+
+GRAPHS: all using cross validation (yes)
+Epochs vs test accuracy (using the min of FP and FN) as the highest epoch
+Dropout vs test accuracy
+nodes in lstm vs test accuracy
+batchsize vs accuracy
+number of dense layers before a softmax https://janakiev.com/notebooks/keras-iris/
+
+SMOTE - didn't work on a 3d array and even if it did it basically does the same thing as averaging our accuracies - can do it with idf index
+
+Talk about word vector representations with glove
+talk about Smote
+
+Poster Outline:
+
+pos-tagging - https://spacy.io/usage/linguistic-features
+
+Data Preprocessing (special character removal, slang removal, dataset balancing)
+
+Glove word vector representations (truncating or padding our sentences, dimensionality of the word vectors, look on glove site for visuals)
+
+Keras LSTM Model - In the diagram above, we have a simple recurrent neural network with three input nodes.  These input nodes are fed into a hidden layer, with sigmoid activations, as per any normal densely connected neural network. What happens next is what is interesting – the output of the hidden layer is then fed back into the same hidden layer. As you can see the hidden layer outputs are passed through a conceptual delay block to allow the input of h^(t-1) into the hidden layer.  What is the point of this? Simply, the point is that we can now model time or sequence-dependent data.
+ 
+Hyperparameters (#nodes per layer, #layers, batchsize, dropout)  (talk about deep/shallow vs wide/narrow)

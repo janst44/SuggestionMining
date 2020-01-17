@@ -1,0 +1,100 @@
+Please enable removing language code from the Dev Center language history For example if you ever selected ru and ru-ru languages and you published this xap to the Store then it causes Tile localization to show the en-us(default) tile localization which is bad.,1
+Some of my users will still receive the old xap version of my app.,0
+The store randomly gives the old xap or the new xap version of my app.,0
+My app has a WP7 version and a WP8 version XAP in the same submission.,0
+The wp7 xap works only on WP7 and the wp8 xap works only for WP8.,0
+Sometimes the Store gives the wrong wp7 xap version of my app to Windows Phone 8 users.,0
+It should be an option to remove the ru language code from my app language History or an option to completly replace: Fully replace the prevoius(es) xap(s).,1
+"Currently if you ever mistakenly selected a ru language than you will be in a very bad situation forever: - You can live with the wrong Tile displayed for Russian language in the Store (the english one) or - You can publish an update with the removed ru language, but this update will not fully replace the old version and you will in truble: 1.)",0
+"Provide a workaround for removing the ru language from the language history (I have no need for ru culture just for ru-ru, but there is no way to remove ru from the language history if you ever posted your app with ru language support) 2.",1
+"Or add and implement an AppResLib.dll.xxxx.mui for the ru language culture In the documentation AppResLib.dll.xxxx.mui exist only for ru-ru and not for ru culture: http://msdn.microsoft.com/en-us/library/windowsphone/develop/ff967550(v=vs.105).aspx Thanks, Tom Please enable removing language code from the Dev Center language history For example if you ever selected ru and ru-ru laguages and you published this xap to the Store then it causes Tile localization to show the en-us(default) tile localization which is bad.",1
+Wich means the new version not fully replaced the old version and this causes me very serious more,0
+When I driving my car and need to make call at 99% of times the phone use vocal commands for starting bing search instead of call contact.,0
+"But if I press power button and unlock device and open phone and say call <person name, device start calling correctly!",0
+This in driving mode activated.,0
+"Also in italian translation, after reading sms, the device say fatto for ending operation but work only if I say ho finito.",0
+If I say fatto vocal command unrecognized!,0
+Other little bugs: with my lumia 820 before first WP8 upgrade work fine with vocal commands but from first upgrade to now is bad.,0
+But my old wp7 work fine using same bt sony car stereo!,0
+Other little bugs: with my lumia 820 before first WP8 upgrade work fine with vocal commands but from more,0
+Outlook color schemes.,0
+"Settings, current live tile Size , and More",0
+Open the network + settings and tap on call settings.,0
+Hit the power button to go to sleep mode.,0
+Wait for 15-20 minutes and switch on the mobile again.,0
+The window will be blank with only heading on it.,0
+100% reproducible on Lumia 920 cyan update.,0
+"I always use this feature, please fix ASAP.",1
+Seems there is an issue with the sd card in WP 8.1 Preview.,0
+Its getting annoying.Please fix this.,1
+Ive been working on an LOB for my field of engineering (civil/structural).,0
+The point is to make the app universal across devices so that our engineers do not have to spend too much time learning and relearning the controls.,0
+"And because the same app runs on tablets and PCs, our engineers can work in the field, come back to their office, and continue working with the same data on their PCs.",0
+"Because of windows 8.1 and windows phone 8.1 universal app, I am hoping to adapt the app to windows phone as well.",0
+All the saved and live data are saved on onedrive to allow roaming between the devices.,0
+But Ive found that windows phone 8.1 file picker does not have access to onedrive and there is no futureaccesslist.,0
+This aspect alone prevents any adaptation of my app to the windows phone platform.,0
+Please allow windows phone 8.1 file/folder picker to have access to onedrive and store the location in futureaccesslist.,1
+"Also, please allow onedrive folder to be stored locally like winrt.",1
+"Otherwise, its not a real universal app.",0
+All the saved and live data are more,0
+So far i have tried three different apps and I cannot access my pre windows phone 8.1 photos.,0
+This needs fixing as a number 1 priority.,1
+It would be nice to give developers the option put a payment on hold when they reach the appropriate threshold and have the option to put it on top of the next due payment when they reach the threshold after that.,1
+in wp8.1 dev preview theres a bug with the push service.,0
+"when im on mobile data connection, i get all my notifications, when im on wifi there is no connection to the push server.",0
+"no i found a workaround for myself, when i turn off the mobile data connection manually the push over wifi works.",0
+"but on wp 8.0 gdr 3, the system recognized automaticly wich connection im using and turn the push service automaticly on cellular or on wifi.",0
+"everytime it works, with wp 8.1 dev preview it doesnt.",0
+When I try to insert a new Bank Account I receive an error because there is a validation that the Bank Account should be in the same Country of my account.,0
+"I think this is not correct, because using Paypal I can receive money in another country but I dont want pay extra costs for Paypal and also i can insert my tax plan in a country different of my country in my account.",0
+Please remove that validation or validate according with my tax plan and not my country in the account.,1
+: there is another post that I voted because I cant change the country in my account.,0
+: there is another post that I voted more,0
+I did a report on in app purchases today and noticed that every line item shows an app version of 1.0.0 - which most certainly is not the case.,0
+"Make Bing Vision lens in the camera app pinnable to Start for quick access again and/or add it to the Cortana screen, to the left of the Music Search button perhaps.",0
+In Windows Phone 8 we were able directly access facebook through the people hub.,0
+"Comment on photos, write on walls without having to enter the facebook app.",0
+We were also able to switch between text messages and Facebook messages on the fly.,0
+Now with WIndows Phone 8.1 the app ALWAYS has to open.,0
+On my Lumia 920 it takes significantly longer to do that now.,0
+ITS SLOW!!!!,0
+Please bring back the simplicity and efficiency of Windows Phone!,1
+"While I was building a web application, Ive noticed that single page applications with this url: http://www.contoso.com/!#/ will display blank page and only a refresh will load the page again can you please check that?",1
+It would be great if you would add a RemoteId to the calendars.,1
+appointments have a RemoteId but calendars dont.,0
+It would be easier to sync calendars if they have a RemoteId like appointments.,0
+"When the application is unpublished by Microsoft, the reason in sent by email.",0
+When the email is not received (like in my case) the developer doesnt know the reason.,0
+However this can be easily fixed by writing it in Dev Center.,0
+"In WinRT, the TileBrush class is missing the TileMode and View* properties that are present in other frameworks like WPF and Silverlight.",0
+Please add these properties so that we can support image tiling properly.,1
+There are tons of requests for this over the past years.,0
+See this thread for an example: http://social.msdn.microsoft.com/Forums/windowsapps/en-US/bb5aa859-e3d1-46f2-a661-d4bdbee9a1f2/windowsuixamlmediaimagebrush?forum=winappswithcsharp,0
+The Lockscreen text attribute should be separated out from Tile attributes.,1
+To provide lockscreen text its necessary to use the WideBackContent attribute on the Flip tile.,0
+"But - if you have generated a custom tile and/or you dont want the tile to flip, then you cannot use the lockscreen text feature.",0
+"Im trying to use the API for Contacts in the namespace Windows.ApplicationModel.Contacts, but it doesnt work as expected.",0
+"First of all, on Windows Phone 8.1 I always get an IOException when trying to call PickContactAsync().",0
+"This is very strange, since I was expecting to see at least Contacts app to be launched, seems theres some problem establishing the contract.",0
+I also checked the Contacts permission was enabled on the Package.appxmanifest.,0
+"On Windows 8.1 / RT 8.1 che call to the PickContactAsync() works but I receive wrong data instaed, for example: FirstName and LastName are both in FirstName (and LastName is empty), the ImportantDates (e.g.",0
+"Birthday) are always set to low values (like 05/05/0004), but if I try to navigate the contacts through Outlook.com or Contacts/People app I can see the right values.",0
+"Maybe Im missing something, but this API seems to be broken.",0
+"On Windows 8.1 / RT 8.1 che call to the PickContactAsync() works but I receive wrong data instaed, for example: FirstName and LastName are both in FirstName (and LastName is more",0
+"Although it is possible to define custom ETW events, and to generate those events, the publicly available tooling does not currently provide a way to get access to these events.",0
+The Windows Phone Developer Power Tools only enable collection of predefined profiles that use certain system events.,0
+There appears to be no way to tell it to collect data from your own custom event sources.,0
+"So although in, e.g., .NET-based store apps, the System.Diagnostics.Tracing.EventSource class is available and can be used to generate custom ETW events, there doesnt appear to be any point to this at the moment because you cant actually record those events in a trace!",0
+"Just to be clear, this is *not* a duplicate of http://wpdev.uservoice.com/forums/110705-dev-platform/suggestions/3743880-please-provide-etw-logging-from-a-windows-phone-8 - as a reply in that thread points out, you can already log ETW events from a WP8 app.",0
+"What I want is the ability to record those alongside system-provided ETW events, so that I can see how my codes activity fits in with system behaviour.",1
+"So although in, e.g., .NET-based store apps, the System.Diagnostics.Tracing.EventSource class is available and can be used to generate custom ETW events, there doesnt appear to be any point to this at the moment because you more",0
+Please get back the old OneDrive integration to windows phone 8.1.,1
+It used to sync so fast and was able to view the pictures under photo albums easily.,0
+And now the app takes long time to load.,0
+The same happened with Facebook integration.,0
+It used to be good on 7.8.,0
+We could minimize or maximize the pictures but now we can only maximize.,0
+I purchased the windows phone because of the smooth integration but now we are slowly moving towards apps and no OS integration.,0
+"Microsoft provide a system event SmsReceived for app to be notified when a SMS received, we also need such event for phone call, such as PhoneReveived...",0
+"Moreover, its better to have read-only API for phone call history, so developer can help to make better phone call related app like Android.",1
