@@ -1,10 +1,10 @@
 # SuggestionMining
-
+Migrated from: https://bitbucket.org/Campbellsoup/suggestionmining/src/master/
 Tells you whether or not a sentence/phrase/clause is a suggestion. Doesn't heed punctuation.
 
 ## Before you run the model
 
-This repo requires the Glove dataset. You can download on from: https://nlp.stanford.edu/projects/glove/. I used the glove.6B.zip. Extract it into the root directory and it should be in /glove folder for script to find it.
+This repo requires the Glove dataset. You can download it from: https://nlp.stanford.edu/projects/glove/. I used the glove.6B.zip. Extract it into the root directory and it should be in /glove folder to find it.
 
 ### Installation
 
